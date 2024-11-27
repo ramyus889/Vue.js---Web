@@ -27,7 +27,7 @@ function isActive(path) {
     <div class="flex flex-row justify-between gap-10 overflow-hidden sm:flex-col sm:h-full">
       <div class="flex flex-col gap-10">
         <div class="flex justify-between w-full pe-4">
-          <img src="/img/Code/frontend.jpg" alt="" class="w-[50px] rounded-xl" />
+          <img src="/img/Code/frontend.jpg" alt="" class="w-[70px] rounded-xl" />
           <Button
             icon="pi pi-window-minimize"
             severity="secondary"
