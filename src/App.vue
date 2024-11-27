@@ -4,7 +4,7 @@ import UseHeader from './component/UseHeader.vue';
 
 <template>
   <div class="">
-    <div class="">
+    <div class="flex gap-32">
       <UseHeader />
       <RouterView />
     </div>
