@@ -1,3 +1,3 @@
 <template>
-  <div class="ms-40">Blog</div>
+  <div class="mt-40 sm:mt-5 sm:ms-40 ms-5">Blog</div>
 </template>

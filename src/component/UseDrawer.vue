@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center card">
-    <Drawer v-model:visible="visible" header="Drawer" position="top" class="!h-full">
+    <Drawer v-model:visible="visible" header="FrontendStore" position="top" class="!h-full">
       <div class="flex flex-col gap-3">
         <RouterLink to="/" @click="visible = false">Home</RouterLink>
         <RouterLink to="/About" @click="visible = false">About</RouterLink>
