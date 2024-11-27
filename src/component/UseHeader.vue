@@ -7,7 +7,9 @@ import 'primeicons/primeicons.css';
 const route = useRoute();
 
 function isActive(path) {
-  return route.path === path ? 'bg-[#272727] p-5 rounded-xl' : 'bg-transparent p-5';
+  return route.path === path
+    ? 'bg-[#272727] p-5 rounded-xl border-2 border-[#1d58a5]'
+    : 'bg-[#272727] opacity-70 rounded-xl p-5';
 }
 </script>
 
