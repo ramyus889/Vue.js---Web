@@ -27,7 +27,7 @@ function isActive(path) {
     <div class="flex flex-row justify-between gap-10 overflow-hidden sm:flex-col sm:h-full">
       <div class="flex flex-col gap-10">
         <div class="flex justify-between w-full pe-4">
-          <img src="/img/Code/frontend.jpg" alt="" class="w-[70px] rounded-xl" />
+          <img src="/img/Code/frontend.jpg" alt="" class="w-[57px] rounded-xl" />
           <Button
             icon="pi pi-window-minimize"
             severity="secondary"
@@ -36,7 +36,7 @@ function isActive(path) {
             :class="show ? 'opacity-100 motion-preset-blur-down-lg motion-delay-500' : 'opacity-0 '"
           />
         </div>
-        <div class="flex">
+        <div class="flex ps-[6px]">
           <Button
             icon="pi pi-window-maximize"
             severity="secondary"

@@ -1,3 +1,4 @@
+import './SCSS/style.scss';
 import './style.css';
 
 import { autoAnimatePlugin } from '@formkit/auto-animate/vue';
