@@ -9,8 +9,6 @@
           <li><a href="#">PRICING</a></li>
           <li><a href="#">FEATURES</a></li>
           <li><a href="#">BLOG</a></li>
-          <li><a href="#">FORUM</a></li>
-          <li><a href="#">CAREERS</a></li>
         </ul>
         <div class="flex gap-3">
           <UseButton class="!bg-black !text-white !border !border-slate-700" label="SIGN IN" />
